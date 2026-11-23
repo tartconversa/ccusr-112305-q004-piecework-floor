@@ -25,5 +25,14 @@
     "related_claim": "C070",
     "bank_state": "待银行确认",
     "booked_day": "2026-03-14"
+  },
+  {
+    "payment": "P-D",
+    "worker": "U1",
+    "due_month": "2026-02",
+    "amount": "131.75",
+    "related_claim": "C082",
+    "bank_state": "待银行确认",
+    "booked_day": "2026-02-09"
   }
 ]

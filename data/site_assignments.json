@@ -1,0 +1,26 @@
+[
+  {
+    "effective": "2026-01-31",
+    "worker": "U1",
+    "paying_site": "甲",
+    "actual_site": "甲",
+    "window": "N6",
+    "shift": "S060"
+  },
+  {
+    "effective": "2026-01-31",
+    "worker": "U1",
+    "paying_site": "甲",
+    "actual_site": "乙",
+    "window": "N6",
+    "shift": "S062"
+  },
+  {
+    "effective": "2026-02-01",
+    "worker": "U1",
+    "paying_site": "甲",
+    "actual_site": "甲",
+    "window": "N6",
+    "shift": "S070"
+  }
+]

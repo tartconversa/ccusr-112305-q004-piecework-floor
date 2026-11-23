@@ -1,0 +1,35 @@
+[
+  {
+    "appeal": "A6",
+    "event": "A6-1",
+    "worker": "U1",
+    "claim": "C062",
+    "shift": "S062",
+    "decision": "提交",
+    "minutes": 145,
+    "actual_site": "乙",
+    "known": "2026-02-06"
+  },
+  {
+    "appeal": "A6",
+    "event": "A6-2",
+    "worker": "U1",
+    "claim": "C062",
+    "shift": "S062",
+    "decision": "部分确认",
+    "minutes": 126,
+    "actual_site": "乙",
+    "known": "2026-02-08"
+  },
+  {
+    "appeal": "A6",
+    "event": "A6-3",
+    "worker": "U1",
+    "claim": "C062",
+    "shift": "S062",
+    "decision": "重新申报",
+    "minutes": 132,
+    "actual_site": "乙",
+    "known": "2026-02-09"
+  }
+]

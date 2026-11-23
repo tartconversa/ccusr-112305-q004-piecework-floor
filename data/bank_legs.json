@@ -1,0 +1,62 @@
+[
+  {
+    "movement": "PAY-01",
+    "record": "M1",
+    "payment": "P-D",
+    "worker": "U1",
+    "amount": "43.00",
+    "kind": "已扣账待回执",
+    "known": "2026-02-09",
+    "applies_to": null
+  },
+  {
+    "movement": "PAY-02",
+    "record": "M2",
+    "payment": "P-D",
+    "worker": "U1",
+    "amount": "67.25",
+    "kind": "已到账",
+    "known": "2026-02-10",
+    "applies_to": null
+  },
+  {
+    "movement": "PAY-01",
+    "record": "M3",
+    "payment": "P-D",
+    "worker": "U1",
+    "amount": "43.00",
+    "kind": "拒付",
+    "known": "2026-02-11",
+    "applies_to": "M1"
+  },
+  {
+    "movement": "PAY-03",
+    "record": "M4",
+    "payment": "P-D",
+    "worker": "U1",
+    "amount": "21.50",
+    "kind": "冻结",
+    "known": "2026-02-12",
+    "applies_to": null
+  },
+  {
+    "movement": "PAY-01",
+    "record": "M5",
+    "payment": "P-D",
+    "worker": "U1",
+    "amount": "43.00",
+    "kind": "拒付重复通知",
+    "known": "2026-02-12",
+    "applies_to": "M3"
+  },
+  {
+    "movement": "PAY-04",
+    "record": "M6",
+    "payment": "P-C",
+    "worker": "U1",
+    "amount": "17.25",
+    "kind": "次期抵扣已确认",
+    "known": "2026-02-13",
+    "applies_to": null
+  }
+]

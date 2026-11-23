@@ -19,3 +19,13 @@ class SourceContractTest(unittest.TestCase):
         self.assertIn("C061", versions[0]["accepted_claims"])
         self.assertNotIn("C061", versions[1]["accepted_claims"])
         self.assertEqual({row["month"] for row in shifts.values()}, {"2026-01","2026-02"})
+
+    def test_wage_legs_inputs(self):
+        sources = [read_table(name) for name in ['site_assignments', 'appeals', 'bank_legs', 'payments']]
+        self.assertEqual({x["actual_site"] for x in sources[0] if x["window"]=="N6"},{"甲","乙"})
+        self.assertEqual({x["decision"] for x in sources[1]},{"提交","部分确认","重新申报"})
+        payments={x["payment"] for x in sources[3]}
+        self.assertTrue(all(x["payment"] in payments for x in sources[2]))
+        self.assertEqual({x["kind"] for x in sources[2] if x["movement"]=="PAY-01"},
+                         {"已扣账待回执","拒付","拒付重复通知"})
+
