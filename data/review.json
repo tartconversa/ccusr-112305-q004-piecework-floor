@@ -1,0 +1,26 @@
+[
+  {
+    "event": "复验后确认",
+    "worker": "U1",
+    "shift": "S060",
+    "known_on": "2026-03-14",
+    "replacement_minutes": 190,
+    "status": "已确认"
+  },
+  {
+    "event": "跨台重叠",
+    "worker": "U1",
+    "shift": "S062",
+    "known_on": "2026-03-14",
+    "replacement_minutes": 140,
+    "status": "有争议"
+  },
+  {
+    "event": "到账回单",
+    "worker": "U1",
+    "shift": "S070",
+    "known_on": "2026-03-21",
+    "replacement_minutes": null,
+    "status": "已到账"
+  }
+]

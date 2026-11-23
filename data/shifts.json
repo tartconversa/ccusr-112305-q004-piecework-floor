@@ -1,0 +1,362 @@
+[
+  {
+    "shift": "S010",
+    "month": "2026-01",
+    "worker": "U1",
+    "workshop": "甲",
+    "capacity_min": 240,
+    "scan_start": 0,
+    "scan_end": 240,
+    "signed_minutes": 240
+  },
+  {
+    "shift": "S011",
+    "month": "2026-01",
+    "worker": "U2",
+    "workshop": "乙",
+    "capacity_min": 250,
+    "scan_start": 180,
+    "scan_end": 430,
+    "signed_minutes": 250
+  },
+  {
+    "shift": "S012",
+    "month": "2026-01",
+    "worker": "U1",
+    "workshop": "甲",
+    "capacity_min": 160,
+    "scan_start": 210,
+    "scan_end": 370,
+    "signed_minutes": null
+  },
+  {
+    "shift": "S020",
+    "month": "2026-01",
+    "worker": "U1",
+    "workshop": "甲",
+    "capacity_min": 240,
+    "scan_start": 0,
+    "scan_end": 240,
+    "signed_minutes": 240
+  },
+  {
+    "shift": "S021",
+    "month": "2026-01",
+    "worker": "U2",
+    "workshop": "乙",
+    "capacity_min": 250,
+    "scan_start": 180,
+    "scan_end": 430,
+    "signed_minutes": null
+  },
+  {
+    "shift": "S022",
+    "month": "2026-01",
+    "worker": "U1",
+    "workshop": "甲",
+    "capacity_min": 160,
+    "scan_start": 210,
+    "scan_end": null,
+    "signed_minutes": 160
+  },
+  {
+    "shift": "S030",
+    "month": "2026-01",
+    "worker": "U1",
+    "workshop": "甲",
+    "capacity_min": 240,
+    "scan_start": 0,
+    "scan_end": 240,
+    "signed_minutes": null
+  },
+  {
+    "shift": "S031",
+    "month": "2026-01",
+    "worker": "U2",
+    "workshop": "乙",
+    "capacity_min": 250,
+    "scan_start": 180,
+    "scan_end": null,
+    "signed_minutes": 250
+  },
+  {
+    "shift": "S032",
+    "month": "2026-01",
+    "worker": "U1",
+    "workshop": "甲",
+    "capacity_min": 160,
+    "scan_start": 210,
+    "scan_end": 370,
+    "signed_minutes": 160
+  },
+  {
+    "shift": "S040",
+    "month": "2026-01",
+    "worker": "U1",
+    "workshop": "甲",
+    "capacity_min": 240,
+    "scan_start": 0,
+    "scan_end": null,
+    "signed_minutes": 240
+  },
+  {
+    "shift": "S041",
+    "month": "2026-01",
+    "worker": "U2",
+    "workshop": "乙",
+    "capacity_min": 250,
+    "scan_start": 180,
+    "scan_end": 430,
+    "signed_minutes": 250
+  },
+  {
+    "shift": "S042",
+    "month": "2026-01",
+    "worker": "U1",
+    "workshop": "甲",
+    "capacity_min": 160,
+    "scan_start": 210,
+    "scan_end": 370,
+    "signed_minutes": null
+  },
+  {
+    "shift": "S050",
+    "month": "2026-01",
+    "worker": "U1",
+    "workshop": "甲",
+    "capacity_min": 240,
+    "scan_start": 0,
+    "scan_end": 240,
+    "signed_minutes": 240
+  },
+  {
+    "shift": "S051",
+    "month": "2026-01",
+    "worker": "U2",
+    "workshop": "乙",
+    "capacity_min": 250,
+    "scan_start": 180,
+    "scan_end": 430,
+    "signed_minutes": null
+  },
+  {
+    "shift": "S052",
+    "month": "2026-01",
+    "worker": "U1",
+    "workshop": "甲",
+    "capacity_min": 160,
+    "scan_start": 210,
+    "scan_end": 370,
+    "signed_minutes": 160
+  },
+  {
+    "shift": "S060",
+    "month": "2026-01",
+    "worker": "U1",
+    "workshop": "甲",
+    "capacity_min": 240,
+    "scan_start": 0,
+    "scan_end": 240,
+    "signed_minutes": null
+  },
+  {
+    "shift": "S061",
+    "month": "2026-01",
+    "worker": "U2",
+    "workshop": "乙",
+    "capacity_min": 250,
+    "scan_start": 180,
+    "scan_end": 430,
+    "signed_minutes": 250
+  },
+  {
+    "shift": "S062",
+    "month": "2026-01",
+    "worker": "U1",
+    "workshop": "甲",
+    "capacity_min": 160,
+    "scan_start": 210,
+    "scan_end": null,
+    "signed_minutes": 160
+  },
+  {
+    "shift": "S070",
+    "month": "2026-02",
+    "worker": "U1",
+    "workshop": "甲",
+    "capacity_min": 240,
+    "scan_start": 0,
+    "scan_end": 240,
+    "signed_minutes": 240
+  },
+  {
+    "shift": "S071",
+    "month": "2026-02",
+    "worker": "U2",
+    "workshop": "乙",
+    "capacity_min": 250,
+    "scan_start": 180,
+    "scan_end": null,
+    "signed_minutes": 250
+  },
+  {
+    "shift": "S072",
+    "month": "2026-02",
+    "worker": "U1",
+    "workshop": "甲",
+    "capacity_min": 160,
+    "scan_start": 210,
+    "scan_end": 370,
+    "signed_minutes": null
+  },
+  {
+    "shift": "S080",
+    "month": "2026-02",
+    "worker": "U1",
+    "workshop": "甲",
+    "capacity_min": 240,
+    "scan_start": 0,
+    "scan_end": null,
+    "signed_minutes": 240
+  },
+  {
+    "shift": "S081",
+    "month": "2026-02",
+    "worker": "U2",
+    "workshop": "乙",
+    "capacity_min": 250,
+    "scan_start": 180,
+    "scan_end": 430,
+    "signed_minutes": null
+  },
+  {
+    "shift": "S082",
+    "month": "2026-02",
+    "worker": "U1",
+    "workshop": "甲",
+    "capacity_min": 160,
+    "scan_start": 210,
+    "scan_end": 370,
+    "signed_minutes": 160
+  },
+  {
+    "shift": "S090",
+    "month": "2026-02",
+    "worker": "U1",
+    "workshop": "甲",
+    "capacity_min": 240,
+    "scan_start": 0,
+    "scan_end": 240,
+    "signed_minutes": null
+  },
+  {
+    "shift": "S091",
+    "month": "2026-02",
+    "worker": "U2",
+    "workshop": "乙",
+    "capacity_min": 250,
+    "scan_start": 180,
+    "scan_end": 430,
+    "signed_minutes": 250
+  },
+  {
+    "shift": "S092",
+    "month": "2026-02",
+    "worker": "U1",
+    "workshop": "甲",
+    "capacity_min": 160,
+    "scan_start": 210,
+    "scan_end": 370,
+    "signed_minutes": 160
+  },
+  {
+    "shift": "S100",
+    "month": "2026-02",
+    "worker": "U1",
+    "workshop": "甲",
+    "capacity_min": 240,
+    "scan_start": 0,
+    "scan_end": 240,
+    "signed_minutes": 240
+  },
+  {
+    "shift": "S101",
+    "month": "2026-02",
+    "worker": "U2",
+    "workshop": "乙",
+    "capacity_min": 250,
+    "scan_start": 180,
+    "scan_end": 430,
+    "signed_minutes": 250
+  },
+  {
+    "shift": "S102",
+    "month": "2026-02",
+    "worker": "U1",
+    "workshop": "甲",
+    "capacity_min": 160,
+    "scan_start": 210,
+    "scan_end": null,
+    "signed_minutes": null
+  },
+  {
+    "shift": "S110",
+    "month": "2026-02",
+    "worker": "U1",
+    "workshop": "甲",
+    "capacity_min": 240,
+    "scan_start": 0,
+    "scan_end": 240,
+    "signed_minutes": 240
+  },
+  {
+    "shift": "S111",
+    "month": "2026-02",
+    "worker": "U2",
+    "workshop": "乙",
+    "capacity_min": 250,
+    "scan_start": 180,
+    "scan_end": null,
+    "signed_minutes": null
+  },
+  {
+    "shift": "S112",
+    "month": "2026-02",
+    "worker": "U1",
+    "workshop": "甲",
+    "capacity_min": 160,
+    "scan_start": 210,
+    "scan_end": 370,
+    "signed_minutes": 160
+  },
+  {
+    "shift": "S120",
+    "month": "2026-02",
+    "worker": "U1",
+    "workshop": "甲",
+    "capacity_min": 240,
+    "scan_start": 0,
+    "scan_end": null,
+    "signed_minutes": null
+  },
+  {
+    "shift": "S121",
+    "month": "2026-02",
+    "worker": "U2",
+    "workshop": "乙",
+    "capacity_min": 250,
+    "scan_start": 180,
+    "scan_end": 430,
+    "signed_minutes": 250
+  },
+  {
+    "shift": "S122",
+    "month": "2026-02",
+    "worker": "U1",
+    "workshop": "甲",
+    "capacity_min": 160,
+    "scan_start": 210,
+    "scan_end": 370,
+    "signed_minutes": 160
+  }
+]

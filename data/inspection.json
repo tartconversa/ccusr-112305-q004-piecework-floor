@@ -1,0 +1,132 @@
+[
+  {
+    "pack": "P01",
+    "version": 1,
+    "good_pairs": 15,
+    "known_on": "2026-01-17",
+    "accepted_claims": [
+      "C010",
+      "C011"
+    ]
+  },
+  {
+    "pack": "P02",
+    "version": 1,
+    "good_pairs": 16,
+    "known_on": "2026-01-24",
+    "accepted_claims": [
+      "C020",
+      "C021"
+    ]
+  },
+  {
+    "pack": "P03",
+    "version": 1,
+    "good_pairs": 17,
+    "known_on": "2026-01-31",
+    "accepted_claims": [
+      "C030",
+      "C031"
+    ]
+  },
+  {
+    "pack": "P04",
+    "version": 1,
+    "good_pairs": 14,
+    "known_on": "2026-02-07",
+    "accepted_claims": [
+      "C040",
+      "C041"
+    ]
+  },
+  {
+    "pack": "P05",
+    "version": 1,
+    "good_pairs": 15,
+    "known_on": "2026-02-14",
+    "accepted_claims": [
+      "C050",
+      "C051"
+    ]
+  },
+  {
+    "pack": "P06",
+    "version": 1,
+    "good_pairs": 16,
+    "known_on": "2026-02-21",
+    "accepted_claims": [
+      "C060",
+      "C061"
+    ]
+  },
+  {
+    "pack": "P07",
+    "version": 1,
+    "good_pairs": 17,
+    "known_on": "2026-02-28",
+    "accepted_claims": [
+      "C070",
+      "C071"
+    ]
+  },
+  {
+    "pack": "P08",
+    "version": 1,
+    "good_pairs": 14,
+    "known_on": "2026-03-07",
+    "accepted_claims": [
+      "C080",
+      "C081"
+    ]
+  },
+  {
+    "pack": "P09",
+    "version": 1,
+    "good_pairs": 15,
+    "known_on": "2026-03-14",
+    "accepted_claims": [
+      "C090",
+      "C091"
+    ]
+  },
+  {
+    "pack": "P10",
+    "version": 1,
+    "good_pairs": 16,
+    "known_on": "2026-03-21",
+    "accepted_claims": [
+      "C100",
+      "C101"
+    ]
+  },
+  {
+    "pack": "P11",
+    "version": 1,
+    "good_pairs": 17,
+    "known_on": "2026-03-28",
+    "accepted_claims": [
+      "C110",
+      "C111"
+    ]
+  },
+  {
+    "pack": "P12",
+    "version": 1,
+    "good_pairs": 14,
+    "known_on": "2026-04-04",
+    "accepted_claims": [
+      "C120",
+      "C121"
+    ]
+  },
+  {
+    "pack": "P06",
+    "version": 2,
+    "good_pairs": 13,
+    "known_on": "2026-03-14",
+    "accepted_claims": [
+      "C060",
+      "C062"
+    ]
+  }
+]

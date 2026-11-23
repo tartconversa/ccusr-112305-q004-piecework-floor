@@ -1,0 +1,362 @@
+[
+  {
+    "claim": "C010",
+    "pack": "P01",
+    "stage": "缝制",
+    "shift": "S010",
+    "worker": "U1",
+    "piece_count": 17,
+    "scanned": true,
+    "rework_of": null
+  },
+  {
+    "claim": "C011",
+    "pack": "P01",
+    "stage": "配对",
+    "shift": "S011",
+    "worker": "U2",
+    "piece_count": 16,
+    "scanned": true,
+    "rework_of": null
+  },
+  {
+    "claim": "C012",
+    "pack": "P01",
+    "stage": "复验",
+    "shift": "S012",
+    "worker": "U1",
+    "piece_count": 15,
+    "scanned": true,
+    "rework_of": "C010"
+  },
+  {
+    "claim": "C020",
+    "pack": "P02",
+    "stage": "缝制",
+    "shift": "S020",
+    "worker": "U1",
+    "piece_count": 18,
+    "scanned": true,
+    "rework_of": null
+  },
+  {
+    "claim": "C021",
+    "pack": "P02",
+    "stage": "配对",
+    "shift": "S021",
+    "worker": "U2",
+    "piece_count": 17,
+    "scanned": true,
+    "rework_of": null
+  },
+  {
+    "claim": "C022",
+    "pack": "P02",
+    "stage": "复验",
+    "shift": "S022",
+    "worker": "U1",
+    "piece_count": 16,
+    "scanned": false,
+    "rework_of": "C020"
+  },
+  {
+    "claim": "C030",
+    "pack": "P03",
+    "stage": "缝制",
+    "shift": "S030",
+    "worker": "U1",
+    "piece_count": 19,
+    "scanned": true,
+    "rework_of": null
+  },
+  {
+    "claim": "C031",
+    "pack": "P03",
+    "stage": "配对",
+    "shift": "S031",
+    "worker": "U2",
+    "piece_count": 18,
+    "scanned": false,
+    "rework_of": null
+  },
+  {
+    "claim": "C032",
+    "pack": "P03",
+    "stage": "复验",
+    "shift": "S032",
+    "worker": "U1",
+    "piece_count": 17,
+    "scanned": true,
+    "rework_of": "C030"
+  },
+  {
+    "claim": "C040",
+    "pack": "P04",
+    "stage": "缝制",
+    "shift": "S040",
+    "worker": "U1",
+    "piece_count": 16,
+    "scanned": false,
+    "rework_of": null
+  },
+  {
+    "claim": "C041",
+    "pack": "P04",
+    "stage": "配对",
+    "shift": "S041",
+    "worker": "U2",
+    "piece_count": 15,
+    "scanned": true,
+    "rework_of": null
+  },
+  {
+    "claim": "C042",
+    "pack": "P04",
+    "stage": "复验",
+    "shift": "S042",
+    "worker": "U1",
+    "piece_count": 14,
+    "scanned": true,
+    "rework_of": "C040"
+  },
+  {
+    "claim": "C050",
+    "pack": "P05",
+    "stage": "缝制",
+    "shift": "S050",
+    "worker": "U1",
+    "piece_count": 17,
+    "scanned": true,
+    "rework_of": null
+  },
+  {
+    "claim": "C051",
+    "pack": "P05",
+    "stage": "配对",
+    "shift": "S051",
+    "worker": "U2",
+    "piece_count": 16,
+    "scanned": true,
+    "rework_of": null
+  },
+  {
+    "claim": "C052",
+    "pack": "P05",
+    "stage": "复验",
+    "shift": "S052",
+    "worker": "U1",
+    "piece_count": 15,
+    "scanned": true,
+    "rework_of": "C050"
+  },
+  {
+    "claim": "C060",
+    "pack": "P06",
+    "stage": "缝制",
+    "shift": "S060",
+    "worker": "U1",
+    "piece_count": 18,
+    "scanned": true,
+    "rework_of": null
+  },
+  {
+    "claim": "C061",
+    "pack": "P06",
+    "stage": "配对",
+    "shift": "S061",
+    "worker": "U2",
+    "piece_count": 17,
+    "scanned": true,
+    "rework_of": null
+  },
+  {
+    "claim": "C062",
+    "pack": "P06",
+    "stage": "复验",
+    "shift": "S062",
+    "worker": "U1",
+    "piece_count": 16,
+    "scanned": false,
+    "rework_of": "C060"
+  },
+  {
+    "claim": "C070",
+    "pack": "P07",
+    "stage": "缝制",
+    "shift": "S070",
+    "worker": "U1",
+    "piece_count": 19,
+    "scanned": true,
+    "rework_of": null
+  },
+  {
+    "claim": "C071",
+    "pack": "P07",
+    "stage": "配对",
+    "shift": "S071",
+    "worker": "U2",
+    "piece_count": 18,
+    "scanned": false,
+    "rework_of": null
+  },
+  {
+    "claim": "C072",
+    "pack": "P07",
+    "stage": "复验",
+    "shift": "S072",
+    "worker": "U1",
+    "piece_count": 17,
+    "scanned": true,
+    "rework_of": "C070"
+  },
+  {
+    "claim": "C080",
+    "pack": "P08",
+    "stage": "缝制",
+    "shift": "S080",
+    "worker": "U1",
+    "piece_count": 16,
+    "scanned": false,
+    "rework_of": null
+  },
+  {
+    "claim": "C081",
+    "pack": "P08",
+    "stage": "配对",
+    "shift": "S081",
+    "worker": "U2",
+    "piece_count": 15,
+    "scanned": true,
+    "rework_of": null
+  },
+  {
+    "claim": "C082",
+    "pack": "P08",
+    "stage": "复验",
+    "shift": "S082",
+    "worker": "U1",
+    "piece_count": 14,
+    "scanned": true,
+    "rework_of": "C080"
+  },
+  {
+    "claim": "C090",
+    "pack": "P09",
+    "stage": "缝制",
+    "shift": "S090",
+    "worker": "U1",
+    "piece_count": 17,
+    "scanned": true,
+    "rework_of": null
+  },
+  {
+    "claim": "C091",
+    "pack": "P09",
+    "stage": "配对",
+    "shift": "S091",
+    "worker": "U2",
+    "piece_count": 16,
+    "scanned": true,
+    "rework_of": null
+  },
+  {
+    "claim": "C092",
+    "pack": "P09",
+    "stage": "复验",
+    "shift": "S092",
+    "worker": "U1",
+    "piece_count": 15,
+    "scanned": true,
+    "rework_of": "C090"
+  },
+  {
+    "claim": "C100",
+    "pack": "P10",
+    "stage": "缝制",
+    "shift": "S100",
+    "worker": "U1",
+    "piece_count": 18,
+    "scanned": true,
+    "rework_of": null
+  },
+  {
+    "claim": "C101",
+    "pack": "P10",
+    "stage": "配对",
+    "shift": "S101",
+    "worker": "U2",
+    "piece_count": 17,
+    "scanned": true,
+    "rework_of": null
+  },
+  {
+    "claim": "C102",
+    "pack": "P10",
+    "stage": "复验",
+    "shift": "S102",
+    "worker": "U1",
+    "piece_count": 16,
+    "scanned": false,
+    "rework_of": "C100"
+  },
+  {
+    "claim": "C110",
+    "pack": "P11",
+    "stage": "缝制",
+    "shift": "S110",
+    "worker": "U1",
+    "piece_count": 19,
+    "scanned": true,
+    "rework_of": null
+  },
+  {
+    "claim": "C111",
+    "pack": "P11",
+    "stage": "配对",
+    "shift": "S111",
+    "worker": "U2",
+    "piece_count": 18,
+    "scanned": false,
+    "rework_of": null
+  },
+  {
+    "claim": "C112",
+    "pack": "P11",
+    "stage": "复验",
+    "shift": "S112",
+    "worker": "U1",
+    "piece_count": 17,
+    "scanned": true,
+    "rework_of": "C110"
+  },
+  {
+    "claim": "C120",
+    "pack": "P12",
+    "stage": "缝制",
+    "shift": "S120",
+    "worker": "U1",
+    "piece_count": 16,
+    "scanned": false,
+    "rework_of": null
+  },
+  {
+    "claim": "C121",
+    "pack": "P12",
+    "stage": "配对",
+    "shift": "S121",
+    "worker": "U2",
+    "piece_count": 15,
+    "scanned": true,
+    "rework_of": null
+  },
+  {
+    "claim": "C122",
+    "pack": "P12",
+    "stage": "复验",
+    "shift": "S122",
+    "worker": "U1",
+    "piece_count": 14,
+    "scanned": true,
+    "rework_of": "C120"
+  }
+]

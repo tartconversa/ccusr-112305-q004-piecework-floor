@@ -1,0 +1,29 @@
+[
+  {
+    "payment": "P-A",
+    "worker": "U1",
+    "due_month": "2026-01",
+    "amount": "110.25",
+    "related_claim": "C060",
+    "bank_state": "已到账",
+    "booked_day": "2026-02-28"
+  },
+  {
+    "payment": "P-B",
+    "worker": "U2",
+    "due_month": "2026-01",
+    "amount": "76.00",
+    "related_claim": "C061",
+    "bank_state": "已到账",
+    "booked_day": "2026-02-28"
+  },
+  {
+    "payment": "P-C",
+    "worker": "U1",
+    "due_month": "2026-02",
+    "amount": "87.00",
+    "related_claim": "C070",
+    "bank_state": "待银行确认",
+    "booked_day": "2026-03-14"
+  }
+]

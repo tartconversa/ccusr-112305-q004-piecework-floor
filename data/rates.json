@@ -1,0 +1,44 @@
+[
+  {
+    "effective": "2026-01",
+    "stage": "缝制",
+    "per_pair": "1.85",
+    "allowed_guarantee_hourly": "20.00",
+    "cap_deduction": "22"
+  },
+  {
+    "effective": "2026-01",
+    "stage": "配对",
+    "per_pair": "1.40",
+    "allowed_guarantee_hourly": "20.00",
+    "cap_deduction": "22"
+  },
+  {
+    "effective": "2026-01",
+    "stage": "复验",
+    "per_pair": "0.75",
+    "allowed_guarantee_hourly": "20.00",
+    "cap_deduction": "22"
+  },
+  {
+    "effective": "2026-02",
+    "stage": "缝制",
+    "per_pair": "1.95",
+    "allowed_guarantee_hourly": "20.00",
+    "cap_deduction": "25"
+  },
+  {
+    "effective": "2026-02",
+    "stage": "配对",
+    "per_pair": "1.40",
+    "allowed_guarantee_hourly": "20.00",
+    "cap_deduction": "25"
+  },
+  {
+    "effective": "2026-02",
+    "stage": "复验",
+    "per_pair": "0.80",
+    "allowed_guarantee_hourly": "20.00",
+    "cap_deduction": "25"
+  }
+]
